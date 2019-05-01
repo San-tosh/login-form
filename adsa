@@ -1,0 +1,42 @@
+[33mcommit 1db040bfc759e63b63d3647daf2dad8dd743758e[m[33m ([m[1;36mHEAD -> [m[1;32mbranch1[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: ManishNewa <37665587+ManishNewa@users.noreply.github.com>
+Date:   Wed May 1 16:59:01 2019 +0545
+
+    Age and Mail resolved
+
+[33mcommit f53ace47ee9e501a8e9078a32fdd4a821a7c7c32[m
+Merge: d6416a1 a356441
+Author: Punam Prajapati <poonamprajapati96.pp@gmail.com>
+Date:   Wed May 1 16:53:52 2019 +0545
+
+    hello
+
+[33mcommit d6416a14da1aa9fefe21fb9c279468943470b990[m
+Author: Punam Prajapati <poonamprajapati96.pp@gmail.com>
+Date:   Wed May 1 16:39:04 2019 +0545
+
+    hello
+
+[33mcommit a356441740fe9f429b04e3f7976d44224e5fd48c[m
+Author: ManishNewa <37665587+ManishNewa@users.noreply.github.com>
+Date:   Wed May 1 16:36:56 2019 +0545
+
+    Age and Mail added
+
+[33mcommit 5bc1de64c8d1321be9188049a1effcddc8b74313[m
+Author: Santosh Bhulun <36979511+San-tosh@users.noreply.github.com>
+Date:   Wed May 1 08:36:53 2019 +0545
+
+    Create README.md
+
+[33mcommit 2f85733ba93ad124f1323f4bbdd2744cfdc3e0de[m
+Author: Santosh Bhulun <36979511+San-tosh@users.noreply.github.com>
+Date:   Wed May 1 08:29:20 2019 +0545
+
+    Delete Readme.md
+
+[33mcommit 7cad7f0a61629642e35ad22125a17a15e1cfda6f[m
+Author: santosh <santoshbhulun@gmail.com>
+Date:   Wed May 1 08:24:47 2019 +0545
+
+    first commit
